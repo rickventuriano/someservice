@@ -1,2 +1,2 @@
 # someservice
-some service
+some cool service
